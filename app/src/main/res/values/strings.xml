@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ChatProject</string>
+    <string name="picture">Picture</string>
+    <string name="alpha">0.1</string>
 </resources>
